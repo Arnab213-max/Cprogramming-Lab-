@@ -11,7 +11,8 @@
 ### Created & Modified By
 **Arnab Maharjan**
 - GitHub: [https://github.com/Arnab213-max/K_akito)
-- Role: Developer & Maintainer
+- Role:   Undergraduate Student (BCA) | Front-End Developer | UI/UX Designer
+- Email: arnabmaharjan1@gmail.com
 
 *This project is created, maintained, and modified by Arnab Maharjan.*
 
